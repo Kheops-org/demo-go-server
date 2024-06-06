@@ -21,7 +21,7 @@ import (
 )
 
 var desiredNbObjects = 5
-var objectsSizeInMB = 3
+var objectsSizeInMB = 4
 var intervalInSecs = 15
 var customMessage = "Hello"
 
