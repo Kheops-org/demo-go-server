@@ -20,7 +20,7 @@ import (
 	"go.uber.org/zap"
 )
 
-var desiredNbObjects = 5
+var desiredNbObjects = 6
 var objectsSizeInMB = 3
 var intervalInSecs = 15
 var customMessage = "Hello"
