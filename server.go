@@ -20,10 +20,10 @@ import (
 	"go.uber.org/zap"
 )
 
-var desiredNbObjects = 7
+var desiredNbObjects = 5
 var objectsSizeInMB = 1
 var intervalInSecs = 5
-var customMessage = "Hello 7 objects"
+var customMessage = "Hello 5 objects"
 
 var globalSlice []byte
 var nbObjects int = 0
