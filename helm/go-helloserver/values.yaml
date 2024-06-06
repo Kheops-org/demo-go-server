@@ -9,7 +9,7 @@ image:
   repository: registry.nationtech.io/demo-go-server
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 20240606-152236
+  tag: 20240606-171451
 
 imagePullSecrets:
 - name: nationtech-registry-key
