@@ -21,8 +21,8 @@ import (
 )
 
 var desiredNbObjects = 77
-var objectsSizeInMB = 4
-var intervalInSecs = 15
+var objectsSizeInMB = 1
+var intervalInSecs = 5
 var customMessage = "Hello"
 
 var globalSlice []byte
